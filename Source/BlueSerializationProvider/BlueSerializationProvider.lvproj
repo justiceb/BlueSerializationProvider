@@ -139,6 +139,7 @@
 				<Item Name="Search Array__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Search Array__ogtk.vi">
 					<Property Name="marked" Type="Int">0</Property>
 				</Item>
+				<Item Name="Defer Panel Updates BVV.lvlib" Type="Library" URL="/&lt;userlib&gt;/Blue Origin/BlueVariantView/Defer Panel Updates/Defer Panel Updates BVV.lvlib"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Apply Configuration For Source Separation.vi" Type="VI" URL="/&lt;vilib&gt;/SourceOnly/Apply Configuration For Source Separation.vi">
@@ -394,7 +395,6 @@
 				<Item Name="Pathes.ctl" Type="VI" URL="/&lt;vilib&gt;/LabVIEW Icon API/lv_icon/Controls/Pathes.ctl">
 					<Property Name="marked" Type="Int">0</Property>
 				</Item>
-				<Item Name="Defer Panel Updates.lvlib" Type="Library" URL="/&lt;vilib&gt;/DSCE/Utilities/Defer Panel Updates/Defer Panel Updates.lvlib"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl">
 					<Property Name="marked" Type="Int">0</Property>
 				</Item>
@@ -403,10 +403,18 @@
 					<Property Name="marked" Type="Int">0</Property>
 				</Item>
 				<Item Name="Composition.lvlib" Type="Library" URL="/&lt;vilib&gt;/PNR/LabVIEW Composition/Composition/Composition.lvlib"/>
-				<Item Name="Number To Enum.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Number To Enum.vim"/>
-				<Item Name="Get LV Class Default Value By Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value By Name.vi"/>
-				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi"/>
-				<Item Name="Qualified Name Array To Single String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Qualified Name Array To Single String.vi"/>
+				<Item Name="Number To Enum.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Number To Enum.vim">
+					<Property Name="marked" Type="Int">0</Property>
+				</Item>
+				<Item Name="Get LV Class Default Value By Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Default Value By Name.vi">
+					<Property Name="marked" Type="Int">0</Property>
+				</Item>
+				<Item Name="Get LV Class Path.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Path.vi">
+					<Property Name="marked" Type="Int">0</Property>
+				</Item>
+				<Item Name="Qualified Name Array To Single String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Qualified Name Array To Single String.vi">
+					<Property Name="marked" Type="Int">0</Property>
+				</Item>
 			</Item>
 			<Item Name="Item_Interface.ctl" Type="VI" URL="/&lt;resource&gt;/Framework/Providers/API/Item_Interface.ctl">
 				<Property Name="marked" Type="Int">0</Property>
